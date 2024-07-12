@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\gameserver\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|F:\\gameserver\\server\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|solutionrelative:mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|F:\\gameserver\\server\\EchoRoles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|solutionrelative:EchoRoles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|F:\\gameserver\\server\\EchoRoles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|solutionrelative:EchoRoles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|F:\\gameserver\\server\\CmdCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9C04824-C271-496B-887C-56DDC39D7516}|server.vcxproj|solutionrelative:CmdCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EchoRoles.cpp",
+              "DocumentMoniker": "F:\\gameserver\\server\\EchoRoles.cpp",
+              "RelativeDocumentMoniker": "EchoRoles.cpp",
+              "ToolTip": "F:\\gameserver\\server\\EchoRoles.cpp",
+              "RelativeToolTip": "EchoRoles.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T08:26:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EchoRoles.h",
+              "DocumentMoniker": "F:\\gameserver\\server\\EchoRoles.h",
+              "RelativeDocumentMoniker": "EchoRoles.h",
+              "ToolTip": "F:\\gameserver\\server\\EchoRoles.h",
+              "RelativeToolTip": "EchoRoles.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T08:26:12.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CmdCheck.cpp",
+              "DocumentMoniker": "F:\\gameserver\\server\\CmdCheck.cpp",
+              "RelativeDocumentMoniker": "CmdCheck.cpp",
+              "ToolTip": "F:\\gameserver\\server\\CmdCheck.cpp",
+              "RelativeToolTip": "CmdCheck.cpp",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAmwFUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T07:15:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mian.cpp",
+              "DocumentMoniker": "F:\\gameserver\\server\\mian.cpp",
+              "RelativeDocumentMoniker": "mian.cpp",
+              "ToolTip": "F:\\gameserver\\server\\mian.cpp",
+              "RelativeToolTip": "mian.cpp",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAPYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T07:49:23.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
